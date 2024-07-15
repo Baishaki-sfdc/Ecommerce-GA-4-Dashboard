@@ -18,3 +18,4 @@ Total Revenue: Provides a comprehensive view of the financial impact and profita
 ## Device Category: 
 Allows for analysis based on the type of device used (e.g., mobile, desktop).
 Hostname: Enables segmentation of data by hostname for granular insights.
+![looker dash](https://github.com/user-attachments/assets/3c2860b3-9f81-4f93-8178-6571a5fdbde6)
