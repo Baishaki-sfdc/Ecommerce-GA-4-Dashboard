@@ -8,6 +8,9 @@ The primary objective is to create a dynamic and interactive dashboard that aids
 Tools used:<br/>
 Looker Studio
 
+Data Source:<br/>
+Google merchandise store
+
 ## Metrics To Show Impact:
 
 Total Users: Identifies the store's reach and user engagement levels.
